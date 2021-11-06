@@ -1,0 +1,51 @@
+table {
+    line-height: 40px;
+    text-align: center;
+}
+
+th, td {
+    margin: 0px;
+    outline: none;
+    padding: 0px;
+    border: 1px solid #808080;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+.mon {
+    background-image: url("https://mywebspace.net.au/UOWC128/assignment_1/images/task_6_1.png");
+    width: 200px;
+    background-color: #f8f8f8;
+    height: 200px;
+}
+.tues {
+    background-image: url("https://mywebspace.net.au/UOWC128/assignment_1/images/task_6_2.png");
+    background-color: #f8f8f8;
+    width: 200px;
+    height: 200px;
+}
+.wed {
+    background-image: url("https://mywebspace.net.au/UOWC128/assignment_1/images/task_6_3.png");
+    background-color: #f8f8f8;
+    width: 200px;
+    height: 200px;
+}
+
+.thur {
+    background-image: url("https://mywebspace.net.au/UOWC128/assignment_1/images/task_6_4.png");
+    background-color: #f8f8f8;
+    width: 200px;
+    height: 200px;
+}
+
+.ctg {
+    color: red;
+    background-color: pink;
+}
+
+.status {
+    background-color: #d3d3d3;
+}
+
+.heading {
+    background-color: #f8f8f8;
+}
