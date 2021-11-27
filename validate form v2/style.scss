@@ -1,0 +1,38 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+body {
+    background-color: #f1f1f1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main {
+    margin-top: 100px;
+    background-color: #ffff;
+    width: fit-content;
+}
+.form {
+    padding: 30px 20px;
+    line-height: 40px;
+}
+
+.heading, .desc {
+    text-align: center;
+}
+
+.desc {
+    color: #3338;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    text-indent: 10px;
+}
